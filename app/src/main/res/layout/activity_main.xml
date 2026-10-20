@@ -10,7 +10,7 @@
         tools:ignore="MissingConstraints">
 
 
-        <com.tknetwork.widget.LiveMapView
+        <com.sabdevz.widget.LiveMapView
             android:id="@+id/liveMap"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

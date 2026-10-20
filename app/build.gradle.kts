@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.tknetwork.livemap"
+    namespace = "com.sabdevz.livemap"
     compileSdk = 37
 
     defaultConfig {
